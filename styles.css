@@ -46,4 +46,31 @@ button{
     font-weight: 700;
     font-size: 20px;
     color: #36cdd4;
+    margin-top: 68px;
 }
+
+.form-container{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    display: flex;
+    margin-top: 93px;
+    gap: 42px;
+}
+
+.scnd-row{
+    display: flex;
+    margin-top: 37px;
+    gap: 42px;
+}
+
+.third-row{
+    display: flex;
+    margin-top: 37px;
+    gap: 42px;
+}
+
